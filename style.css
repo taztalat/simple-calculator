@@ -1,0 +1,31 @@
+.main{
+  background-color:white;
+  width: 295px; 
+  margin: 0 auto;
+  border: 2px solid #757575; 
+  height: 318px;
+  border-radius: 6px;
+  
+}
+.result{
+    border:2px solid grey;
+    width:285px;
+    margin:2px; 
+    height:60px;
+}
+.clear{
+    width:100%;
+    height:40px;
+}
+.btn{
+    width:74px ;
+    height:50px;
+    background-color:#607D8B!important;
+    border-radius: 0% !important;
+  border-collapse: separate!important;
+  border-spacing: 0px;
+}
+.add{
+    width:145px !important;
+}
+
